@@ -1,12 +1,12 @@
 body{
-    background-color: rgba(245, 240, 244, 0);
+    background-color: rgba(248, 198, 238, 0);
     color: rgb(255, 209, 231);
 }
 h1{
     color: rgb(213, 0, 241);
 }
 section{
-    background: rgb(240, 181, 227);
+    background: rgb(252, 219, 245);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
